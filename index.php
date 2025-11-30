@@ -1,6 +1,6 @@
 <?php
 require_once("auth_check.php");
-
+#php
 // Check authentication - require admin or teacher
 requireAdminOrTeacher();
 
