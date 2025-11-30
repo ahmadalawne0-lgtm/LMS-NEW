@@ -5,7 +5,7 @@
 include("Database/database.php");
 include("Controllers/classController.php");
 include("layout.php");
-
+# php
 ?>
 
 <!-- Main Content -->
